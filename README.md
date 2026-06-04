@@ -46,9 +46,12 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+<img width="1044" height="568" alt="image" src="https://github.com/user-attachments/assets/b3db59b7-64bc-413d-ab61-b50e387c41cb" />
+<img width="1107" height="704" alt="image" src="https://github.com/user-attachments/assets/5a95a3e7-4754-441c-99a1-2a47aa765ecd" />
+<img width="374" height="666" alt="image" src="https://github.com/user-attachments/assets/8abcbe59-8552-421b-993a-ea3e4a4274e9" />
 
-### Name:
-### Register Number:
+### Name:konduru santhosh
+### Register Number:212225240074
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
